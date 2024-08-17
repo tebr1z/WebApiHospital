@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiHospital", "WebApiHospital\WebApiHospital.csproj", "{69559092-2BD7-4237-8A0B-FE5A5CBBA753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiHospital.DLL", "WebApiHospital.DLL\WebApiHospital.DLL.csproj", "{BC64CDB2-5484-43D8-B2B2-3E0BE8FFFB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69559092-2BD7-4237-8A0B-FE5A5CBBA753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69559092-2BD7-4237-8A0B-FE5A5CBBA753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69559092-2BD7-4237-8A0B-FE5A5CBBA753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69559092-2BD7-4237-8A0B-FE5A5CBBA753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC64CDB2-5484-43D8-B2B2-3E0BE8FFFB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC64CDB2-5484-43D8-B2B2-3E0BE8FFFB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC64CDB2-5484-43D8-B2B2-3E0BE8FFFB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC64CDB2-5484-43D8-B2B2-3E0BE8FFFB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42864C8B-2A28-42BD-A946-AD423630B4CE}
+	EndGlobalSection
+EndGlobal
